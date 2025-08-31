@@ -38,9 +38,9 @@ Important links & websites:
 * Linear A (Aegean)
 * Latin Extended-F (Charis, Gentium, Andika)
 * Cypriot Syllabary (Everson Mono)
- Imperial Aramaic
- Palmyrene
- Nabataean
+* Imperial Aramaic (Everson Mono)
+* Palmyrene
+* Nabataean (Everson Mono)
  Hatran
  Phoenician
  Lydian
